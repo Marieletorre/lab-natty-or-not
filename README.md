@@ -1,51 +1,220 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Dieta para perda de peso;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
-
+E-book com dieta diária
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+copilot
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+solicitei um e-book contendo a dieta diária pde 1.400 calorias para uma pesoa perder 5 kg em um mês.  
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+E-Book Semana 1: Dieta de 1.400 Calorias por Dia
+Dia 1
+Café da Manhã:
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+1 fatia de pão integral
 
-### Exemplos e Insigths
+1 ovo cozido
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+1 maçã
 
-## Links Interessantes
+Lanche da Manhã:
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+1 iogurte desnatado
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Almoço:
+
+100g de peito de frango grelhado
+
+Salada de folhas verdes com tomate e pepino
+
+1 colher de sopa de azeite de oliva
+
+1 laranja
+
+Lanche da Tarde:
+
+1 banana
+
+Jantar:
+
+Sopa de legumes (abobrinha, cenoura, aipo)
+
+Ceia:
+
+10 amêndoas
+
+Dia 2
+Café da Manhã:
+
+1 copo de leite desnatado
+
+2 torradas integrais com cottage
+
+Lanche da Manhã:
+
+1 pera
+
+Almoço:
+
+120g de filé de peixe grelhado
+
+Brócolis no vapor
+
+1 batata doce pequena
+
+Lanche da Tarde:
+
+1 tangerina
+
+Jantar:
+
+Omelete de 2 ovos com espinafre e tomate
+
+Ceia:
+
+1 fatia de queijo branco
+
+Dia 3
+Café da Manhã:
+
+1 bowl de aveia com morangos
+
+1 copo de suco de laranja
+
+Lanche da Manhã:
+
+1 cenoura crua
+
+Almoço:
+
+100g de carne magra grelhada
+
+Salada de rúcula com nozes e vinagrete
+
+Lanche da Tarde:
+
+1 punhado de uvas
+
+Jantar:
+
+Sopa de lentilha com legumes
+
+Ceia:
+
+1 xícara de chá verde
+
+Dia 4
+Café da Manhã:
+
+1 iogurte com granola
+
+1 kiwi
+
+Lanche da Manhã:
+
+1 maçã
+
+Almoço:
+
+150g de salmão grelhado
+
+Salada de espinafre com tomate e pepino
+
+Lanche da Tarde:
+
+1 pera
+
+Jantar:
+
+Sopa de abóbora
+
+Ceia:
+
+1 punhado de nozes
+
+Dia 5
+Café da Manhã:
+
+2 ovos mexidos
+
+1 fatia de pão integral
+
+Lanche da Manhã:
+
+1 laranja
+
+Almoço:
+
+120g de peito de frango grelhado
+
+Salada de alface, tomate e cenoura
+
+Lanche da Tarde:
+
+1 banana
+
+Jantar:
+
+Sopa de legumes
+
+Ceia:
+
+1 copo de leite desnatado
+
+Dia 6
+Café da Manhã:
+
+1 iogurte desnatado com frutas vermelhas
+
+Lanche da Manhã:
+
+1 maçã
+
+Almoço:
+
+100g de carne magra grelhada
+
+Salada de rúcula com tomate e pepino
+
+Lanche da Tarde:
+
+1 pera
+
+Jantar:
+
+Sopa de legumes
+
+Ceia:
+
+10 amêndoas
+
+Dia 7
+Café da Manhã:
+
+1 fatia de pão integral com abacate
+
+1 laranja
+
+Lanche da Manhã:
+
+1 iogurte desnatado
+
+Almoço:
+
+120g de peixe grelhado
+
+Salada de folhas verdes com tomate e pepino
+
+Lanche da Tarde:
+
+1 banana
+
+Jantar:
+
+Omelete de 2 ovos com espinafre e tomate
+
+Ceia:
+
+1 fatia de queijo branco
